@@ -344,3 +344,7 @@ section {
   background-color: rgba(88, 85, 85, 0.589);
   color: white;
 }
+
+.share_1 button > i:hover {
+  color: blue;
+}
